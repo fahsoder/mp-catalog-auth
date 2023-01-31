@@ -1,0 +1,1 @@
+# mp-catalog-auth
